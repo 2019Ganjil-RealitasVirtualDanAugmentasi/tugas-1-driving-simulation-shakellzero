@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 4c0feb4d9f1c4814f8bb04e94497c656
+timeCreated: 1568893477
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Cube.3416_Cube.016
+    100004: Cube.3417_Cube.020
+    100006: Cube.3418_Cube.024
+    100008: Cube.3419_Cube.025
+    100010: Cube.3420_Cube.031
+    100012: Cube.3421_Cube.3467
+    100014: Cube.3422_Cube.3468
+    100016: Cube.3423_Cube.3469
+    100018: Cube.3424_Cube.3470
+    100020: Cube.3425_Cube.3471
+    100022: Field.000_Circle.007
+    100024: Field.001_Circle.008
+    100026: Field.002_Circle.001
+    100028: Field.003_Circle.009
+    100030: Field.004_Circle.004
+    100032: Light
+    100034: //RootNode
+    100036: tangga.001_Plane.506
+    100038: tangga.002_Plane.507
+    100040: tangga.003_Plane.508
+    100042: tangga.004_Plane.509
+    100044: tangga.005_Plane.510
+    100046: tangga.012_Plane.511
+    100048: tangga.013_Plane.512
+    100050: tangga.014_Plane.513
+    100052: tangga.015_Plane.514
+    100054: tangga.016_Plane.515
+    100056: tangga.017_Plane.516
+    100058: tangga_Plane.505
+    400000: Camera
+    400002: Cube.3416_Cube.016
+    400004: Cube.3417_Cube.020
+    400006: Cube.3418_Cube.024
+    400008: Cube.3419_Cube.025
+    400010: Cube.3420_Cube.031
+    400012: Cube.3421_Cube.3467
+    400014: Cube.3422_Cube.3468
+    400016: Cube.3423_Cube.3469
+    400018: Cube.3424_Cube.3470
+    400020: Cube.3425_Cube.3471
+    400022: Field.000_Circle.007
+    400024: Field.001_Circle.008
+    400026: Field.002_Circle.001
+    400028: Field.003_Circle.009
+    400030: Field.004_Circle.004
+    400032: Light
+    400034: //RootNode
+    400036: tangga.001_Plane.506
+    400038: tangga.002_Plane.507
+    400040: tangga.003_Plane.508
+    400042: tangga.004_Plane.509
+    400044: tangga.005_Plane.510
+    400046: tangga.012_Plane.511
+    400048: tangga.013_Plane.512
+    400050: tangga.014_Plane.513
+    400052: tangga.015_Plane.514
+    400054: tangga.016_Plane.515
+    400056: tangga.017_Plane.516
+    400058: tangga_Plane.505
+    2300000: Cube.3416_Cube.016
+    2300002: Cube.3417_Cube.020
+    2300004: Cube.3418_Cube.024
+    2300006: Cube.3419_Cube.025
+    2300008: Cube.3420_Cube.031
+    2300010: Cube.3421_Cube.3467
+    2300012: Cube.3422_Cube.3468
+    2300014: Cube.3423_Cube.3469
+    2300016: Cube.3424_Cube.3470
+    2300018: Cube.3425_Cube.3471
+    2300020: Field.000_Circle.007
+    2300022: Field.001_Circle.008
+    2300024: Field.002_Circle.001
+    2300026: Field.003_Circle.009
+    2300028: Field.004_Circle.004
+    2300030: tangga.001_Plane.506
+    2300032: tangga.002_Plane.507
+    2300034: tangga.003_Plane.508
+    2300036: tangga.004_Plane.509
+    2300038: tangga.005_Plane.510
+    2300040: tangga.012_Plane.511
+    2300042: tangga.013_Plane.512
+    2300044: tangga.014_Plane.513
+    2300046: tangga.015_Plane.514
+    2300048: tangga.016_Plane.515
+    2300050: tangga.017_Plane.516
+    2300052: tangga_Plane.505
+    3300000: Cube.3416_Cube.016
+    3300002: Cube.3417_Cube.020
+    3300004: Cube.3418_Cube.024
+    3300006: Cube.3419_Cube.025
+    3300008: Cube.3420_Cube.031
+    3300010: Cube.3421_Cube.3467
+    3300012: Cube.3422_Cube.3468
+    3300014: Cube.3423_Cube.3469
+    3300016: Cube.3424_Cube.3470
+    3300018: Cube.3425_Cube.3471
+    3300020: Field.000_Circle.007
+    3300022: Field.001_Circle.008
+    3300024: Field.002_Circle.001
+    3300026: Field.003_Circle.009
+    3300028: Field.004_Circle.004
+    3300030: tangga.001_Plane.506
+    3300032: tangga.002_Plane.507
+    3300034: tangga.003_Plane.508
+    3300036: tangga.004_Plane.509
+    3300038: tangga.005_Plane.510
+    3300040: tangga.012_Plane.511
+    3300042: tangga.013_Plane.512
+    3300044: tangga.014_Plane.513
+    3300046: tangga.015_Plane.514
+    3300048: tangga.016_Plane.515
+    3300050: tangga.017_Plane.516
+    3300052: tangga_Plane.505
+    4300000: Cube.3416_Cube.016
+    4300002: Cube.3417_Cube.020
+    4300004: Cube.3418_Cube.024
+    4300006: Cube.3419_Cube.025
+    4300008: Cube.3420_Cube.031
+    4300010: Cube.3421_Cube.3467
+    4300012: Cube.3422_Cube.3468
+    4300014: Cube.3423_Cube.3469
+    4300016: Cube.3424_Cube.3470
+    4300018: Cube.3425_Cube.3471
+    4300020: Field.000_Circle.007
+    4300022: Field.001_Circle.008
+    4300024: Field.002_Circle.001
+    4300026: Field.003_Circle.009
+    4300028: Field.004_Circle.004
+    4300030: tangga.001_Plane.506
+    4300032: tangga.002_Plane.507
+    4300034: tangga.003_Plane.508
+    4300036: tangga.004_Plane.509
+    4300038: tangga.005_Plane.510
+    4300040: tangga.012_Plane.511
+    4300042: tangga.013_Plane.512
+    4300044: tangga.014_Plane.513
+    4300046: tangga.015_Plane.514
+    4300048: tangga.016_Plane.515
+    4300050: tangga.017_Plane.516
+    4300052: tangga_Plane.505
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
